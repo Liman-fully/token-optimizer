@@ -72,8 +72,7 @@ git clone https://github.com/Liman-fully/token-optimizer ~/.openclaw/workspace/s
 
 如果你觉得这个项目有帮助，欢迎请我喝杯咖啡 ☕
 
-<!-- 收款码占位：assets/wechat-pay.png -->
-<!-- 收款码占位：assets/revolut-pay.png -->
+![微信收款码](assets/wechat-pay.png)
 
 **你的支持是我持续迭代的动力！**
 
@@ -178,8 +177,7 @@ git clone https://github.com/Liman-fully/token-optimizer ~/.openclaw/workspace/s
 
 If this project helped you, consider buying me a coffee ☕
 
-<!-- Payment QR: assets/wechat-pay.png -->
-<!-- Payment QR: assets/revolut-pay.png -->
+![WeChat Pay](assets/wechat-pay.png)
 
 **Your support keeps this project going!**
 
