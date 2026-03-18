@@ -1,0 +1,29 @@
+{
+  "name": "token-optimizer",
+  "version": "1.0.0",
+  "description": "OpenClaw Token Optimiser - No-code friendly, pure prompt-level optimisation",
+  "author": "Xiaoman <Liman.fully@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liman-fully/token-optimizer"
+  },
+  "bin": {
+    "token-optimizer": "./update.js"
+  },
+  "keywords": [
+    "openclaw",
+    "token",
+    "optimization",
+    "cost",
+    "efficiency",
+    "skill"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "update.js",
+    "references/"
+  ]
+}

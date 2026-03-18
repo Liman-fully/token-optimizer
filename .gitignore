@@ -1,0 +1,14 @@
+# 本地备份目录
+.backups/
+
+# 更新日志
+.update-log
+
+# 版本标记
+.version
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
