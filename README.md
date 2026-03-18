@@ -74,6 +74,10 @@ git clone https://github.com/Liman-fully/token-optimizer ~/.openclaw/workspace/s
 
 ![微信收款码](assets/wechat-pay.png)
 
+**海外用户：**
+
+![Revolut](assets/revolut-pay.png)
+
 **你的支持是我持续迭代的动力！**
 
 ---
@@ -178,6 +182,10 @@ git clone https://github.com/Liman-fully/token-optimizer ~/.openclaw/workspace/s
 If this project helped you, consider buying me a coffee ☕
 
 ![WeChat Pay](assets/wechat-pay.png)
+
+**International:**
+
+![Revolut](assets/revolut-pay.png)
 
 **Your support keeps this project going!**
 
